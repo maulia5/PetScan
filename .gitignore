@@ -1,4 +1,5 @@
 .venv
 venv
 dataset-bcp
-Dataset Sistem Presensi Wajah V2.0
+models/embeddings_buffalo_s.pkl
+models/face_db_centroids.pkl
